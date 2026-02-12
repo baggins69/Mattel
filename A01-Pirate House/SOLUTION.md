@@ -2,7 +2,7 @@ Looking at this Mattel Aquarius version of your "Pirates House" game, here's a c
 
 # Game Structure / Walkthrough Solution
 
-##8 Locations:  
+## 8 Locations:  
 •	Front Gate (0) - Starting location  
 •	Main Hall (1)  
 •	Captain's Quarters (2)  
@@ -12,11 +12,11 @@ Looking at this Mattel Aquarius version of your "Pirates House" game, here's a c
 •	Lookout Tower (6)  
 •	Secret Dock (7)  
 
-##15 Objects:  
+## 15 Objects:  
 •	Scenery (can't take): gate, parrot, door, painting, pirate, candle, lever, skeleton, chest  
 •	Items (can take): safe, key, map, rope, gold, gem  
 
-Game State Variables:  
+## Game State Variables:  
 •	u - Pirate status (0=sleeping, 1=tied up, 2=attacked)  
 •	k - Safe status (0=locked, 1=unlocked)  
 •	c - Chest status (0=closed, 1=opened)  
@@ -24,7 +24,7 @@ Game State Variables:
 
 Win Condition: Get both the GOLD and GEM to the Front Gate  
 
-Complete Solution  
+## Complete Solution  
 1.	SOUTH - Go to Main Hall
 2.	EXAMINE PAINTING - Reveals secret passage east to Cellar
 3.	EEAST - Go to Cellar
@@ -53,11 +53,12 @@ Complete Solution
 26.	DROP GOLD
 27.	WIN!  
 
-Death Traps  
+## Death Traps  
 •	Don't get the door in Captain's Quarters before tying the pirate - instant death!  
 •	Don't remove the painting before tying the pirate - instant death!  
 
-Key Puzzle Mechanics  
+  
+## Key Puzzle Mechanics  
 
 The game has a nice logical puzzle chain:  
 •	Map hints at removing painting  
