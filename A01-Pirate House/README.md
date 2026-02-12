@@ -21,12 +21,13 @@ Can you navigate the eight perilous locations, solve the mysteries of the map an
 •	Cassette or Direct Entry  
  
 # HOW TO PLAY
-Use simple commands to navigate and interact:
+Use simple commands to navigate and interact:  
 •	NORTH, SOUTH, EAST, WEST - Move between locations  
 •	GET [object] - Pick up items  
 •	EXAMINE [object] - Look closely at things  
 •	UNLOCK, TIE, REMOVE, PULL - Perform special actions  
-•	INVENTORY - See what you're carrying  
+•	INVENTORY - See what you're carrying    
+
 Your goal: Find both treasures and return safely to the Front Gate!  
  
 Written by Scott Julian  
