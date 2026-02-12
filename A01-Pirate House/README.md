@@ -4,7 +4,9 @@ For the Mattel Aquarius Computer System Requires 4K RAM Expansion
  
 # THE ADVENTURE AWAITS
 You stand before the abandoned mansion known as Pirates House, once home to the infamous Captain Blackbeard. Legend tells of fabulous treasures hidden within its walls - a chest of GOLD and a priceless GEM, lost for over a century.  
+  
 But beware! The house guards its secrets well. A dangerous pirate still prowls the Captain's Quarters, deadly traps await the unwary explorer, and puzzles left by Blackbeard himself must be solved before the treasure can be claimed.  
+  
 Can you navigate the eight perilous locations, solve the mysteries of the map and the painting, and escape with both treasures? Only the cleverest adventurers will survive!  
  
 # GAME FEATURES
