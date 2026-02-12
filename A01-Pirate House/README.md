@@ -22,17 +22,17 @@ Can you navigate the eight perilous locations, solve the mysteries of the map an
  
 # HOW TO PLAY
 Use simple commands to navigate and interact:
-•	NORTH, SOUTH, EAST, WEST - Move between locations
-•	GET [object] - Pick up items
-•	EXAMINE [object] - Look closely at things
-•	UNLOCK, TIE, REMOVE, PULL - Perform special actions
-•	INVENTORY - See what you're carrying
-Your goal: Find both treasures and return safely to the Front Gate!
+•	NORTH, SOUTH, EAST, WEST - Move between locations  
+•	GET [object] - Pick up items  
+•	EXAMINE [object] - Look closely at things  
+•	UNLOCK, TIE, REMOVE, PULL - Perform special actions  
+•	INVENTORY - See what you're carrying  
+Your goal: Find both treasures and return safely to the Front Gate!  
  
-Written by Scott Julian
-Copyright © 1983, 2026. All Rights Reserved.
-"A challenging puzzle adventure that will test your wit and courage!"
+Written by Scott Julian  
+Copyright © 1983, 2026. All Rights Reserved.  
+"A challenging puzzle adventure that will test your wit and courage!"  
  
-DIFFICULTY LEVEL: Intermediate
-AVERAGE PLAY TIME: 30-45 minutes
-PLAYERS: 1
+DIFFICULTY LEVEL: Intermediate  
+AVERAGE PLAY TIME: 30-45 minutes  
+PLAYERS: 1  
