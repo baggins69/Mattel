@@ -2,7 +2,7 @@ Looking at this Mattel Aquarius version of your "Pirates House" game, here's a c
 
 # Game Structure / Walkthrough Solution
 
-##8 Locations:
+##8 Locations:  
 •	Front Gate (0) - Starting location  
 •	Main Hall (1)  
 •	Captain's Quarters (2)  
@@ -51,17 +51,21 @@ Complete Solution
 24.	NORTH, NORTH - Return to Front Gate with both treasures
 25.	DROP GEM
 26.	DROP GOLD
-27.	WIN!
-Death Traps
-•	Don't get the door in Captain's Quarters before tying the pirate - instant death!
-•	Don't remove the painting before tying the pirate - instant death!
-Key Puzzle Mechanics
-The game has a nice logical puzzle chain:
-•	Map hints at removing painting
-•	Must tie pirate first (using rope from dock)
-•	Painting reveals safe (requires key from skeleton)
-•	Safe contains gem
-•	Chest in vault contains gold
-•	Lever opens path to vault
-The pirate danger adds tension, and the need to explore thoroughly to find all the pieces makes it a solid adventure game.
+27.	WIN!  
+
+Death Traps  
+•	Don't get the door in Captain's Quarters before tying the pirate - instant death!  
+•	Don't remove the painting before tying the pirate - instant death!  
+
+Key Puzzle Mechanics  
+
+The game has a nice logical puzzle chain:  
+•	Map hints at removing painting  
+•	Must tie pirate first (using rope from dock)  
+•	Painting reveals safe (requires key from skeleton)  
+•	Safe contains gem  
+•	Chest in vault contains gold  
+•	Lever opens path to vault  
+
+The pirate danger adds tension, and the need to explore thoroughly to find all the pieces makes it a solid adventure game.  
 
